@@ -1,1 +1,7 @@
 D:\Google Drive\Informatik\FA 2.AJ\0.Git\ExperienceWithGit\ExperienceWithGit\bin\Debug\ExperienceWithGit.exe.config
+C:\Users\user\Documents\Git\ExperienceWithGit\ExperienceWithGit\ExperienceWithGit\bin\Debug\ExperienceWithGit.exe.config
+C:\Users\user\Documents\Git\ExperienceWithGit\ExperienceWithGit\ExperienceWithGit\bin\Debug\ExperienceWithGit.exe
+C:\Users\user\Documents\Git\ExperienceWithGit\ExperienceWithGit\ExperienceWithGit\bin\Debug\ExperienceWithGit.pdb
+C:\Users\user\Documents\Git\ExperienceWithGit\ExperienceWithGit\ExperienceWithGit\obj\Debug\ExperienceWithGit.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Git\ExperienceWithGit\ExperienceWithGit\ExperienceWithGit\obj\Debug\ExperienceWithGit.exe
+C:\Users\user\Documents\Git\ExperienceWithGit\ExperienceWithGit\ExperienceWithGit\obj\Debug\ExperienceWithGit.pdb

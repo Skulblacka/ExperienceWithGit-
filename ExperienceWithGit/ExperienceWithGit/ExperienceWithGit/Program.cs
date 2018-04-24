@@ -13,6 +13,9 @@ namespace ExperienceWithGit
             Console.WriteLine("John Doe,");
             Console.WriteLine("Jane Doe,");
             Console.WriteLine(",...");
+            DateTime thisDay = DateTime.Today;
+            // Display the date in the default (general) format.
+            Console.WriteLine(thisDay.ToString());
 
             Console.ReadLine();
         }
